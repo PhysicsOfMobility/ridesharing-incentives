@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/318198784.svg)](https://zenodo.org/badge/latestdoi/318198784)
+
 # Ride-Sharing (Anti-)Coordination Game v1.0 (09/2020)
 ## Contacts
  - [David Storch](mailto:david.storch@tu-dresden.de)
