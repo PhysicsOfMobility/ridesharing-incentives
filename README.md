@@ -4,7 +4,7 @@
  - [Malte Schröder](mailto:malte.schroeder@tu-dresden.de)
 
 ## What This Code Does
-This c++-code implements a ride-sharing (anti)-coordination game as proposed in https://arxiv.org/abs/2008.11079
+This C++-code implements a ride-sharing (anti)-coordination game as proposed in https://arxiv.org/abs/2008.11079
 
 The present code version realizes a minimal simulation of the replicator dynamics for one set of parameters
 defined in the game (S,epsilon,zeta,xi). It repeatedly solves, amongst others, a maximum weight matching problem
